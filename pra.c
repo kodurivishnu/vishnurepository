@@ -7,5 +7,6 @@ void main()
 	printf("PRATYUSHA LOVES ARPITA");
 	printf("ARPITA LOVES KAVYA ");
 	printf("KAVYA LOVES PRATYUSHA");
+	printf("Hello guys");
 }
 
